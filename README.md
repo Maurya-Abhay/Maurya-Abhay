@@ -32,8 +32,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <p align="left">
 <div>
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 </div>
 <hr>
@@ -44,7 +44,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
@@ -92,7 +91,7 @@ Here are some of my standout projects, showcasing a mix of **innovation**, **rea
 
 ### 1. [E-Commerce Recommendation System]()
    A personalized recommendation engine for an e-commerce platform.
-   - **Tech Stack**: Python, Node.js, Express, MongoDB, React
+   - **Tech Stack**: Node.js, Express, MongoDB, React
    - **Features**: Collaborative filtering, content-based filtering, user behavior analytics.
    - **Highlight**: Advanced algorithms for recommendation, enhancing user experience with AI insights.
  
@@ -105,7 +104,7 @@ Here are some of my standout projects, showcasing a mix of **innovation**, **rea
 ## 📚 Education
 - **Bachelor of Technology (B.Tech)** in Computer Science and Engineering  
   **st Andrews Institute of Technology and Management (SAITM), Gurgaon.**  
-  **GPA**: 6.2/10 (First 3 Semesters)
+  **GPA**: 6.2/10 (First 2 Semesters)
 
 ---
 ## 📈 Achievements
