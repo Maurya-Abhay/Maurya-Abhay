@@ -110,8 +110,6 @@ Here are some of my standout projects, showcasing a mix of **innovation**, **rea
 ## 📈 Achievements
 
 - **Learning Journey:** Currently building skills in full stack development, Data Structures, and Algorithms, and exploring new technologies.
-- **Hackathons:** Actively seeking opportunities to participate in hackathons to enhance problem-solving skills and collaborate with peers.
-- **Project Highlights:** Currently working on projects that demonstrate practical applications of my skills. Recent projects include a Daily dash and PG Finder using the PERN stack.
 
 ---
 
