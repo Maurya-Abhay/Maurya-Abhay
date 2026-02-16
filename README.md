@@ -1,68 +1,61 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhay+Prasad+🚀;Full-Stack+MERN+Developer;Hardcore+DSA+Lover+🔥;B.Tech+CSE+(2023-2027)" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&height=200&section=header&text=Abhay%20Prasad&fontSize=70&animation=fadeIn" />
 
-  <p align="center">
-    <a href="https://in.linkedin.com/in/abhay-prasad-84b46a297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:abhayprasad.maurya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://x.com/Pr1934163Abhay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Final+Year+CSE+Student;Hardcore+DSA+Enthusiast;Batch+2023-2027" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Current Status:** 3rd Year (6th Semester) B.Tech CSE Student @ **SAITM, Gurgaon**.
-- ⏳ **Batch:** 2023 - 2027 (On a mission to build impactful tech).
-- 🛠️ **Expertise:** Mastering the **MERN Stack** and building scalable architectures.
-- 🧠 **Problem Solving:** 500+ problems solved across various platforms. **Java + DSA** is my superpower.
-- ⚡ **Philosophy:** "Code is like humor. When you have to explain it, it’s bad."
+### 👨‍💻 My Journey
+- 🚀 **Status:** 3rd Year (6th Sem) B.Tech CSE @ **SAITM, Gurgaon**.
+- 🎓 **Batch:** 2023 - 2027
+- 💻 **Focus:** Building scalable MERN applications & solving complex DSA problems.
+- 🎯 **Goal:** To engineer solutions that make a difference.
 
 ---
 
-### 🛠️ Tech Stack (The Modern Way)
+### 🛠️ Professional Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,cpp,py,react,nodejs,express,mongodb,redux,tailwind,bootstrap,mysql,aws,gcp,git,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,mongodb,express,react,nodejs,redux,tailwind,mysql,aws,git,vscode,py,cpp" />
 </div>
 
 ---
 
-### 📊 Real-Time GitHub Stats
+### 📊 Real-Time GitHub Performance
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&bg_color=0D1117" alt="Abhay's Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages" width="300" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maurya-Abhay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurya-Abhay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurya-Abhay&theme=tokyonight&hide_border=true&background=0D1117" width="90%" />
 </div>
 
 ---
 
-### 🏆 Competitive Programming & DSA
-<div align="center">
-  <p>Dedicated to mastering algorithms and optimizing code for efficiency.</p>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
-</div>
+### 🏆 Competitive Programming
+<p align="center">
+  <a href="https://leetcode.com/Maurya-Abhay">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🏗️ Featured Projects (2024-2025 Focus)
-| Project Name | Tech Stack | Key Feature |
-| :--- | :--- | :--- |
-| **Smart E-Commerce** | `MERN` + `AI` | Personalized recommendations based on user behavior. |
-| **DSA Visualizer** | `React` + `D3.js` | Interactive platform to learn & visualize complex algorithms. |
-| **Portfolio 3.0** | `Next.js` + `Three.js` | 3D immersive developer portfolio experience. |
+### 🏗️ Featured Projects
+| Project | Stack | Status |
+| :--- | :--- | :---: |
+| **E-Commerce AI** | `MERN` + `AI` | 🚀 Live |
+| **DSA Visualizer** | `React` + `D3.js` | 🚧 Dev |
+| **Cloud-Based Portfolio** | `Next.js` + `AWS` | 🚀 Live |
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  <p><i>"AI is the co-pilot, but I'm the Captain." 👨‍✈️</i></p>
+  <a href="https://in.linkedin.com/in/abhay-prasad-84b46a297">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
