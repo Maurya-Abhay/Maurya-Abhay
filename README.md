@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="https://www.syntvex.tech/">🌐 <b>Syntvex</b></a> &nbsp;&bull;&nbsp;
+    <a href="abhaypr.vercel.app">🌐 <b>Portfolio</b></a> &nbsp;&bull;&nbsp;
     <a href="https://in.linkedin.com/in/abhay-prasad-84b46a297">💼 <b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
     <a href="https://x.com/Pr1934163Abhay">🐦 <b>Twitter</b></a> &nbsp;&bull;&nbsp;
     <a href="mailto:abhayprasad.maurya@gmail.com">✉️ <b>Email</b></a>
